@@ -1,0 +1,15 @@
+/Users/mihailtambov/Examples/Example001_ HelloConsole/bin/Debug/net7.0/Example001_ HelloConsole
+/Users/mihailtambov/Examples/Example001_ HelloConsole/bin/Debug/net7.0/Example001_ HelloConsole.deps.json
+/Users/mihailtambov/Examples/Example001_ HelloConsole/bin/Debug/net7.0/Example001_ HelloConsole.runtimeconfig.json
+/Users/mihailtambov/Examples/Example001_ HelloConsole/bin/Debug/net7.0/Example001_ HelloConsole.dll
+/Users/mihailtambov/Examples/Example001_ HelloConsole/bin/Debug/net7.0/Example001_ HelloConsole.pdb
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.csproj.AssemblyReference.cache
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.AssemblyInfoInputs.cache
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.AssemblyInfo.cs
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.csproj.CoreCompileInputs.cache
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.dll
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/refint/Example001_ HelloConsole.dll
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.pdb
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/Example001_ HelloConsole.genruntimeconfig.cache
+/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/Debug/net7.0/ref/Example001_ HelloConsole.dll
