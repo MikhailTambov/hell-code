@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mihailtambov/Examples/Example001_ HelloConsole/Example001_ HelloConsole.csproj": {}
+    "/Users/mihailtambov/Examples/Example001_HelloConsole/Example001_ HelloConsole.csproj": {}
   },
   "projects": {
-    "/Users/mihailtambov/Examples/Example001_ HelloConsole/Example001_ HelloConsole.csproj": {
+    "/Users/mihailtambov/Examples/Example001_HelloConsole/Example001_ HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mihailtambov/Examples/Example001_ HelloConsole/Example001_ HelloConsole.csproj",
+        "projectUniqueName": "/Users/mihailtambov/Examples/Example001_HelloConsole/Example001_ HelloConsole.csproj",
         "projectName": "Example001_ HelloConsole",
-        "projectPath": "/Users/mihailtambov/Examples/Example001_ HelloConsole/Example001_ HelloConsole.csproj",
+        "projectPath": "/Users/mihailtambov/Examples/Example001_HelloConsole/Example001_ HelloConsole.csproj",
         "packagesPath": "/Users/mihailtambov/.nuget/packages/",
-        "outputPath": "/Users/mihailtambov/Examples/Example001_ HelloConsole/obj/",
+        "outputPath": "/Users/mihailtambov/Examples/Example001_HelloConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mihailtambov/.nuget/NuGet/NuGet.Config"
